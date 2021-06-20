@@ -11,9 +11,11 @@ The number of white squares to the left of which is one or more black squares.
 
 The rectange is represent by String with length 7:
 
-3 - 'W' - represent white square
-3 - 'B' - represent black square
-1 - 'O' - represent empty square
+3 - 'W'  represent white square
+
+3 - 'B'  represent black square
+
+1 - 'O'  represent empty square
 
 
 input : WBWBWOB

@@ -1,6 +1,3 @@
-// Tal alter 206292450
-// Or abitbol 312614605
-
 import java.util.*;
 public class Problem extends Object {
     private PriorityQueue<Node> frontier;
